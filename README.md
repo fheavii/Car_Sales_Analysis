@@ -7,8 +7,8 @@ This project showcases an interactive <b>Excel based dashboard</b> analyzing car
 
 - 🧹 Data cleaning & preprocessing in Excel  
 - 📊 KPI analysis with pivot tables & calculated metrics  
-- 📈 Dashboard design using Excel charts (line, bar, pie, map)  
-- 🎛️ Interactive filtering with slicers (year, gender, engine, transmission)  
+- 📈 Dashboard design using Excel charts  
+- 🎛️ Interactive filtering with slicers
 - 🎨 Visual storytelling & clean layouting  
 - 🚘 Interpretation of automotive market performance  
 
