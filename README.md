@@ -1,11 +1,6 @@
 # 🚗 Car Sales Analysis Dashboard — Excel Analytics Project
 <p align="justify">
-This project showcases an interactive <b>Excel based dashboard</b> analyzing car sales performance across the United States for the years <b>2022–2023</b>.  
-The dataset includes details such as car models, colors, body styles, engine types, transmission options, buyer demographics, and regional sales figures.  
-<br>
-Through this dashboard, I explored <b>pricing patterns</b>, <b>sales trends</b>, and <b>market distribution</b> to uncover insights into consumer preferences and vehicle performance across categories.  
-<br>
-This project highlights how raw automotive sales data can be transformed into a polished, insight driven Excel dashboard using <b>pivot tables</b>, <b>slicers</b>, and <b>dynamic KPI metrics</b>.
+This project showcases an interactive <b>Excel based dashboard</b> analyzing car sales performance across the United States for the years <b>2022–2023</b>. The dataset includes details such as car models, colors, body styles, engine types, transmission options, buyer demographics, and regional sales figures. Through this dashboard, I explored <b>pricing patterns</b>, <b>sales trends</b>, and <b>market distribution</b> to uncover insights into consumer preferences and vehicle performance across categories. This project highlights how raw automotive sales data can be transformed into a polished, insight driven Excel dashboard using <b>pivot tables</b>, <b>slicers</b>, and <b>dynamic KPI metrics</b>.
 </p>
 
 # ✨ Skill Showcase
